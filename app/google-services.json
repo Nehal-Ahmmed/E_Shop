@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48103351550",
+    "project_id": "e-shop-ccdfd",
+    "storage_bucket": "e-shop-ccdfd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48103351550:android:dd74a27fb7a5e5da3f31af",
+        "android_client_info": {
+          "package_name": "com.example.eshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh9a0_5X-i7pgXiHWYpLEe5V69lRz1XWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
